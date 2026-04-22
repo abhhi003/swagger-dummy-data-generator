@@ -1,0 +1,6 @@
+{
+  "name": "Swagger Dummy Data Generator",
+  "description": "Generate realistic, schema-validated dummy JSON data from Swagger/OpenAPI definitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
